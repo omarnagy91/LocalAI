@@ -8,7 +8,7 @@ require (
 	github.com/go-audio/wav v1.1.0
 	github.com/go-skynet/bloomz.cpp v0.0.0-20230510195113-ad7e89a0885f
 	github.com/go-skynet/go-bert.cpp v0.0.0-20230510101404-7bb183b147ea
-	github.com/go-skynet/go-gpt2.cpp v0.0.0-20230509180201-d49823284cc6
+	github.com/go-skynet/go-gpt2.cpp v0.0.0-20230510154016-abf038a7d8ef
 	github.com/go-skynet/go-gpt4all-j.cpp v0.0.0-20230422090028-1f7bff57f66c
 	github.com/go-skynet/go-llama.cpp v0.0.0-20230509080828-f4d26f43f1d3
 	github.com/gofiber/fiber/v2 v2.45.0
